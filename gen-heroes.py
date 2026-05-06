@@ -20,14 +20,17 @@ STYLE = (
 )
 
 HEROES = [
+    # Female: SOLARA, CASCADA, VULCANA, MAREA
     ("solara",   "SOLARA, the Sun Champion. Female superhero with golden mask, sun-ray halo headpiece, glowing yellow costume. Sun-disc emblem on chest. Background: saturated comic yellow #ffd60a with halftone dots. Hair flowing like solar flares."),
-    ("aerial",   "AERIAL, the Gale Sentinel. Female superhero with sleek goggles, swept-back hair as if standing in a gale, teal-green flight cape. Wind-turbine emblem on chest. Background: teal #3aafa9 with halftone dots. Wind streak lines around her."),
     ("cascada",  "CASCADA, the Pumped Storm. Female superhero with deep-blue mask, water-droplet emblem on chest, costume that looks like flowing water, splashing water motifs around her. Background: cobalt blue #0466c8 with halftone dots."),
-    ("neutra",   "NEUTRA, the Fission Phoenix. Female superhero with sleek magenta mask, atom emblem on chest with three elliptical orbital rings around a glowing nucleus, magenta-pink costume. Background: hot pink #d62898 with halftone dots. Energy aura."),
     ("vulcana",  "VULCANA, Daughter of the Deep. Female superhero with orange mask, volcano emblem on chest with magma plume, orange-red costume with lava-line trim. Background: hot orange-red #ef5b2a with halftone dots. Spark particles around her."),
-    ("verda",    "VERDA, the Forest Forge. Female superhero with green mask, leaf emblem on chest with subtle circuit-like veins, deep-green costume with subtle bark-pattern texture. Background: forest green #3a915b with halftone dots. Floating leaf motifs."),
     ("marea",    "MAREA, the Tidal Rookie. Young female superhero with cyan mask, cresting-wave emblem on chest, cyan-blue costume, ocean-spray motifs around her. Background: cyan #00b4d8 with halftone dots. Wave-curl lines."),
-    ("hydra",    "HYDRA, the Quantum Carrier. Female superhero with violet mask, H2-molecule emblem on chest (two connected circles), electric purple costume with crackling lightning-spark trim. Background: violet #7b4eff with halftone dots. Energy sparks around her."),
+
+    # Male: AERIAL, NEUTRA, VERDA, HYDRA
+    ("aerial",   "AERIAL, the Gale Sentinel. Strong-jawed MALE superhero, broad shoulders, square chin, short dark windswept hair, sleek aviator goggles, no beard. Teal-green flight cape billowing in wind. Wind-turbine emblem on chest. Heroic muscular physique. Background: teal #3aafa9 with halftone dots. Wind streak action lines around him."),
+    ("neutra",   "NEUTRA, the Fission Phoenix. Strong-jawed MALE superhero, broad shoulders, sleek magenta domino mask, slicked-back dark hair. Atom emblem on chest with three elliptical orbital rings around a glowing nucleus. Magenta-pink muscular costume with energy crackle trim. Background: hot pink #d62898 with halftone dots. Atomic energy aura around him."),
+    ("verda",    "VERDA, the Forest Forge. Strong-jawed MALE superhero, broad shoulders, short brown hair, simple green domino mask, light beard stubble. Leaf emblem on chest with circuit-like veins. Deep-green costume with bark-pattern texture and a leather-strap harness. Background: forest green #3a915b with halftone dots. Floating leaf motifs around him."),
+    ("hydra",    "HYDRA, the Quantum Carrier. Strong-jawed MALE superhero, broad shoulders, square chin, short dark hair, sleek violet domino mask, no beard. H2-molecule emblem on chest (two connected circles). Electric violet muscular costume with crackling lightning-spark trim along arms. Background: violet #7b4eff with halftone dots. Energy sparks around him."),
 ]
 
 
